@@ -69,7 +69,7 @@ A workout tracker where you can choose your exercise focus and intensity and bui
 
 Questions, comments, or concerns? Please Email me at:
 * vincenttoon22@gmail.com
-* masonsemail@email.com
+* JayWhiteBuffalo@protonmail.com
 * phuongsemail@email.com
 * mamadousemail@email.com
 * kainesemail@email.com
